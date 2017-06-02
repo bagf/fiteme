@@ -1,0 +1,24 @@
+{
+  "name": "fiteme",
+  "version": "1.0.0",
+  "description": "Blind attempt and making a Laravel 'like' framework for Nodejs projects. Might work might not at this point I'm beyond 'why' I'm more focused on 'how'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagf/fiteme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagf/fiteme/issues"
+  },
+  "homepage": "https://github.com/bagf/fiteme#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.27",
+    "typescript": "^2.3.4"
+  }
+}
